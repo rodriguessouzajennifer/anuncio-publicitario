@@ -3,3 +3,17 @@ body{
     color:#002e70;
     font-size: 35px;
 }
+
+h1{
+    color:#262be0;
+}
+
+h2 {
+    background-color: #6959f0;
+    color:aliceblue;
+}
+
+img {
+    width: 500px;
+    heigth: 300px;
+}
